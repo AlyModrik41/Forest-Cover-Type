@@ -10,7 +10,7 @@ This project applies **Machine Learning** techniques to classify forest cover ty
 - **Dataset**: Forest Cover Type dataset (7 classes, ~116k samples).
 - **Techniques Used**:
   - Data Preprocessing & Feature Engineering  
-  - Handling Class Imbalance with **SMOTE**  
+  - Handling Class Imbalance 
   - Model Training with **Random Forest** (baseline & tuned)  
   - Cross-Validation for reliable evaluation  
   - Model Performance Visualization (Confusion Matrix, ROC, PR Curves)
@@ -30,7 +30,7 @@ This project applies **Machine Learning** techniques to classify forest cover ty
 
 - **Models**  
   - Random Forest (baseline + tuned)  
-  - Gradient Boosting (with SMOTE)  
+  - Gradient Boosting  
 
 ---
 
@@ -67,7 +67,7 @@ Demonstrates how important features are.
 - **Macro Avg F1**: ~0.92  
 - **Class Performance**:  
   - High performance for frequent classes (1, 2, 3, 7).  
-  - Slightly lower for minority classes (4, 5, 6), but improved after SMOTE.
+  - Slightly lower for minority classes (4, 5, 6), but improved.
 
 ---
 
@@ -92,9 +92,9 @@ Demonstrates how important features are.
 ---
 
 ## 📌 Future Improvements
-- Try **XGBoost / LightGBM** for efficiency.  
-- Hyperparameter tuning with **Optuna / GridSearchCV**.  
-- Explore **feature importance** and SHAP explanations.  
+- Try **LightGBM** for efficiency.  
+- Hyperparameter tuning with **Optuna**.  
+- Explore SHAP explanations.  
 
 ---
 
