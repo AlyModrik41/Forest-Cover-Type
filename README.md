@@ -51,7 +51,7 @@ Shows class-level performance and misclassifications.
 
 ### 3. Precision-Recall Curves (Random Forest)  
 Demonstrates strong performance across all 7 classes.  
-<img width="692" height="549" alt="download" src="https://github.com/user-attachments/assets/178d8371-ff5d-4f9b-b253-ffc163a2d02e" />
+<img width="692" height="549" alt="download" src="https://github.com/user-attachments/assets/015bcd98-6063-4de6-9d2b-c68c085cc849" />
 
 
 ### 4. Feature Importances (Random Forest)
