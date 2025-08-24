@@ -44,7 +44,7 @@ Shows class-level performance and misclassifications.
 ---
 
 ### 2. ROC Curve (Random Forest)  
-<img width="1045" height="1222" alt="download" src="https://github.com/user-attachments/assets/c85725ca-2783-4140-988f-8d290514b9cb" />
+<img width="692" height="549" alt="download" src="https://github.com/user-attachments/assets/f9273726-742f-4e97-b424-520794d49fc5" />
 
 
 ---
