@@ -38,7 +38,7 @@ This project applies **Machine Learning** techniques to classify forest cover ty
 
 ### 1. Confusion Matrix  
 Shows class-level performance and misclassifications.  
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ---
 
