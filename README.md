@@ -38,18 +38,26 @@ This project applies **Machine Learning** techniques to classify forest cover ty
 
 ### 1. Confusion Matrix  
 Shows class-level performance and misclassifications.  
-![Confusion Matrix](confusion_matrix.png)
+<img width="737" height="626" alt="download" src="https://github.com/user-attachments/assets/019117bc-8899-4e13-adc5-698b75cb8ab8" />
+
 
 ---
 
 ### 2. ROC Curve (Random Forest)  
-![ROC Curve](images/roc_curve.png)
+<img width="1045" height="1222" alt="download" src="https://github.com/user-attachments/assets/c85725ca-2783-4140-988f-8d290514b9cb" />
+
 
 ---
 
 ### 3. Precision-Recall Curves (Random Forest)  
 Demonstrates strong performance across all 7 classes.  
-![Precision-Recall Curve](images/pr_curve.png)
+<img width="692" height="549" alt="download" src="https://github.com/user-attachments/assets/178d8371-ff5d-4f9b-b253-ffc163a2d02e" />
+
+
+### 4. Feature Importances (Random Forest)
+Demonstrates how important features are.
+<img width="1045" height="1222" alt="download" src="https://github.com/user-attachments/assets/40b50b3f-176b-4efe-9420-3a0a5aef0bfe" />
+
 
 ---
 
