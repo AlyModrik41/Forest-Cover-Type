@@ -7,7 +7,7 @@ This project applies **Machine Learning** techniques to classify forest cover ty
 ## 📌 Project Overview
 
 - **Goal**: Predict the type of forest cover from environmental features (elevation, slope, distances to hydrology, soil type, etc.).
-- **Dataset**: Forest Cover Type dataset (7 classes, ~116k samples).
+- **Dataset**: Forest Cover Type dataset (7 classes, ~500k+ samples).
 - **Techniques Used**:
   - Data Preprocessing & Feature Engineering  
   - Handling Class Imbalance 
